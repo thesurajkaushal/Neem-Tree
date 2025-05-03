@@ -13,7 +13,7 @@ This is a school project on the **Neem Tree (Azadirachta indica)**, highlighting
 
 ## 🌿 Image:
 
-![Neem Tree](img/project-img.jpg)
+![Neem Tree](img/qr-code.png)
 
 ---
 
